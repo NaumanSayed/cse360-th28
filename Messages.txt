@@ -1,0 +1,7 @@
+[Doctor] [Nurse]: hi
+[Nurse] [Doctor]: hello
+[Doctor] [Nurse]: hi2
+[Nurse] [Doctor]: hello2
+[Doctor] [Patient(1)]: 1 to doctor
+[Doctor, Nurse] [Patient(2)]: Hello guys
+[Nurse] [Doctor]: Send me the results ASAP
